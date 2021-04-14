@@ -40,5 +40,5 @@ Group F: Cryptocurrencies
     o Run the cointegration test for up to 2 lags table
     o Run the granger causality test for and verify which asset is leading
     o For each regression and test save the results into a table
-    
+
 Output example: cointegration test results for German bonds vs. US Treasuries, German bonds vs. French bonds, French bonds and US Treasuries, etc.
