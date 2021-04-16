@@ -21,7 +21,6 @@ Group F: Cryptocurrencies
 10. Summarize and visualize the results in clear and concise manner.
 11. Save charts and use Python to export tables results to excel/word. Integrate them into the project.
 12. Create a repository on GitHub or Google Collaboratory. Upload a small piece of your notebook and a small dataset, make sure that the notebook commands are executed in the cloud. Provide the link and a snapshot.
-(13. Shiny. Run the program from the class on your device. Try to visualize your own data, or alternatively, data from the class. Provide a snapshot from the functional output website.) - gelöscht
 
 # Required Project Deliverables to be uploaded on Moodle:
 1. Written report in word or pdf including
@@ -34,11 +33,17 @@ Group F: Cryptocurrencies
 
 
 # What drives asset prices? Causality and cointegration
+
 • Download daily data for asset prices for at least 20 assets
+
 • Test for stationarity in level and first difference, up to 2 lags
+
 • For each asset (as dependent variable), create a loop and test the relationship with all other assets, in pairs:
+
     o Run the cointegration test for up to 2 lags table
+    
     o Run the granger causality test for and verify which asset is leading
+    
     o For each regression and test save the results into a table
 
 Output example: cointegration test results for German bonds vs. US Treasuries, German bonds vs. French bonds, French bonds and US Treasuries, etc.
