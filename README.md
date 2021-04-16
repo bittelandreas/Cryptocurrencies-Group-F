@@ -21,7 +21,7 @@ Group F: Cryptocurrencies
 10. Summarize and visualize the results in clear and concise manner.
 11. Save charts and use Python to export tables results to excel/word. Integrate them into the project.
 12. Create a repository on GitHub or Google Collaboratory. Upload a small piece of your notebook and a small dataset, make sure that the notebook commands are executed in the cloud. Provide the link and a snapshot.
-13. Shiny. Run the program from the class on your device. Try to visualize your own data, or alternatively, data from the class. Provide a snapshot from the functional output website.
+(13. Shiny. Run the program from the class on your device. Try to visualize your own data, or alternatively, data from the class. Provide a snapshot from the functional output website.) - gelöscht
 
 # Required Project Deliverables to be uploaded on Moodle:
 1. Written report in word or pdf including
